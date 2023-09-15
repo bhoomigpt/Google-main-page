@@ -1,0 +1,36 @@
+.main {
+    margin-top: 200px;
+}
+.logo-abc {
+    width: 500px;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.search-text {
+    width:500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 24px;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    font-size: 25px;
+    border-radius: 4px solid black;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.btn2{
+    margin-right: 10px;
+    font-size: 20px;
+    padding: 5px 18px;
+    border-radius: 20px;
+    cursor: pointer;
+}
